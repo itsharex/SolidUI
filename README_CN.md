@@ -10,13 +10,7 @@
     <a target="_blank" href="https://github.com/CloudOrc/SolidUI/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?label=license" />
     </a>
-    <a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">
-        <img src="https://img.shields.io/badge/JDK-8-blue.svg" />
-    </a>
 
-<a target="_blank" href='https://github.com/CloudOrc/SolidUI/fork'>
-<img src="https://img.shields.io/github/forks/CloudOrc/SolidUI.svg" alt="github forks"/>
-</a>
 <a href="">
 <img src="https://img.shields.io/github/stars/CloudOrc/SolidUI.svg" alt="github stars"/>
 </a>
@@ -41,6 +35,9 @@
 <a target="_blank" href='https://gitee.com/CloudOrc/SolidUI'>
 <img src="https://shields.io/badge/%E2%AD%90-Gitee-blue" alt="gitee"/>
 </a>
+<a target="_blank" href="https://join.slack.com/t/solidui/shared_invite/zt-1r83iino0-SZD38aHAIw2KBA~DSpZndA">
+<img src="https://img.shields.io/badge/join-us%20on%20slack-blue.svg?longCache=true&logo=slack&colorB=blue" alt="us on slack"/>
+</a>
 </p>
 <br/>
 
@@ -61,8 +58,8 @@ AI生成图形模型
 * 支持多种数据源
 * 支持Huggingface space
 * 支持插件机器人
-* 支持SolidUI-Model
-* 支持Large Language Model
+* 支持SolidUI模型
+* 支持大模型接入
 * 容器化部署
 
 # 快速开始
